@@ -70,7 +70,7 @@
 [<img align="left" alt="Abdullah Farooq | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/upwork.svg" />][upwork]
 
 [fiverr]: https://www.fiverr.com/abdullahfaro501
-[gmail]: https://mail.google.com/mail/u/?authuser=abdullahfarooq20172018@gmail.com
+[gmail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=abdullahfarooq20172018@gmail.com
 [upwork]: https://www.upwork.com/freelancers/~01668bb14bcf2efa17
 [linkedin]: https://www.linkedin.com/in/abdullah-farooq-9a2959216/
 
