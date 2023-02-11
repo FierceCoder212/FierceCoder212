@@ -61,6 +61,8 @@
 - <b>Web Developement</b>  
   - [Financee (MERN)](https://github.com/AbdullahFarooq123/Financee)
   - [Trackify (Python Django)](https://github.com/AbdullahFarooq123/Trackify-Python/tree/main/Web-App)
+- [Learning Codes Repository](https://github.com/AbdullahFarooq123/Random-Repo)
+- [Other Freelance Tasks](https://github.com/AbdullahFarooq123/Freelance-Assignments)
 
 <h2> 🤳 Connect with me:</h2>
 
