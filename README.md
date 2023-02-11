@@ -11,6 +11,11 @@
 - <b>C++ Projects</b>
   - [CMD Games](https://github.com/AbdullahFarooq123/Console-Games-C-)
     - [FPS](https://github.com/AbdullahFarooq123/Console-Games-C-/tree/main/CMD%20FPS%20GAME%20(CPP%20VISUAL%20STUDIO))
+    - [Snake Game](https://github.com/AbdullahFarooq123/Console-Games-C-/tree/main/SNAKE%20GAME%20(CPP%20VISUAL%20STUDIO))
+    - [Tetris](https://github.com/AbdullahFarooq123/Console-Games-C-/tree/main/TETRIS%20GAME%20(CPP%20VISUAL%20STUDIO))
+    - [Tic Tac Toe](https://github.com/AbdullahFarooq123/Console-Games-C-/tree/main/TIC%20TAC%20TOE%201%20(CPP%20VISUAL%20STUDIO))
+    - [Ping Pong](https://github.com/AbdullahFarooq123/Console-Games-C-/blob/main/ping-pong.cpp)
+    - [F-16](https://github.com/AbdullahFarooq123/Console-Games-C-/blob/main/F-16.cpp)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
