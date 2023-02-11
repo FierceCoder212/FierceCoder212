@@ -3,12 +3,14 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Android Applications</b>
-  - [BMI-CALCULATOR(Flutter)](https://github.com/AbdullahFarooq123/BMI-Calculator--FLutter-)
-  - [Clima(Flutter)](https://github.com/AbdullahFarooq123/Clima-Flutter-)
-  - [PropSoft(Flutter)](https://github.com/AbdullahFarooq123/PropSoft)
-  - [Login Page(Flutter)](https://github.com/AbdullahFarooq123/Login-Page-Flutter)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [BMI-CALCULATOR (Flutter)](https://github.com/AbdullahFarooq123/BMI-Calculator--FLutter-)
+  - [Clima (Flutter)](https://github.com/AbdullahFarooq123/Clima-Flutter-)
+  - [PropSoft (Flutter)](https://github.com/AbdullahFarooq123/PropSoft)
+  - [Login Page (Flutter)](https://github.com/AbdullahFarooq123/Login-Page-Flutter)
+  - [Flash Chat (Flutter)](https://github.com/AbdullahFarooq123/Flash-Chat)
+- <b>C++ Projects</b>
+  - [CMD Games](https://github.com/AbdullahFarooq123/Console-Games-C-)
+    - [FPS](https://github.com/AbdullahFarooq123/Console-Games-C-/tree/main/CMD%20FPS%20GAME%20(CPP%20VISUAL%20STUDIO))
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
