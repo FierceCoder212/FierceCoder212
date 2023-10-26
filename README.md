@@ -64,6 +64,11 @@
 - [Learning Codes Repository](https://github.com/AbdullahFarooq123/Random-Repo)
 - [Other Freelance Tasks](https://github.com/AbdullahFarooq123/Freelance-Assignments)
 
+- <b>React and .NET</b>
+  - [Resigna](https://github.com/AbdullahFarooq123/Resigna)
+  - [Akhrajaat.pk](https://github.com/AbdullahFarooq123/Akhrajaat.pk)
+  - [Cryptoverse](https://github.com/AbdullahFarooq123/Cryptoverse)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Abdullah Farooq | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
