@@ -68,6 +68,7 @@
   - [Resigna](https://github.com/AbdullahFarooq123/Resigna)
   - [Akhrajaat.pk](https://github.com/AbdullahFarooq123/Akhrajaat.pk)
   - [Cryptoverse](https://github.com/AbdullahFarooq123/Cryptoverse)
+  - [Rapid Pay Api](https://github.com/AbdullahFarooq123/RapidPay)
 
 <h2> 🤳 Connect with me:</h2>
 
