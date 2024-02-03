@@ -1,6 +1,6 @@
 <h1>Hi, I'm Abdullah, A Senior Full Stack Engineer <br/>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Some of the recent projects I contributed to:</h2>
 
 - <b>Android Applications</b>
   - [BMI-CALCULATOR (Flutter)](https://github.com/AbdullahFarooq123/BMI-Calculator--FLutter-)
