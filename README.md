@@ -53,7 +53,7 @@
 
 
 ### Connect with me:
-Reach me out at [sturrabhussain@gmail.com](mailto:sturrabhussain@gmail.com?subject=Got%20an%20opportunity%20for%20you)
+Reach me out at [abdullahfarooq20172018@gmail.com](mailto:abdullahfarooq20172018@gmail.com?subject=Got%20an%20opportunity%20for%20you)
 <p align="center">
  سلام
 </p>
