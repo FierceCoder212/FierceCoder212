@@ -8,29 +8,29 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## 📊 GitHub Stats
+## 🧑‍💻 About Me
 
-<p align="center">
-  <a href="http://www.github.com/FierceCoder212">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FierceCoder212&stroke=a855f7&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=a855f7&currStreakLabel=6366f1&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" alt="FierceCoder212's GitHub Streak" />
-  </a>
-</p>
+I am a passionate software developer with 7 years of experience in .NET C#, Python web scraping, and various other technologies. I am always eager to learn and take on new challenges.
 
-<!-- Uncomment these lines if you want to show GitHub stats and top languages -->
-<!--
-<p align="center">
-  <a href="http://www.github.com/FierceCoder212">
-    <img src="https://github-readme-stats.vercel.app/api?username=FierceCoder212&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=a855f7&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="FierceCoder212's GitHub stats" />
-  </a>
-  <a href="https://github.com/FierceCoder212">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FierceCoder212&langs_count=10&title_color=6366f1&text_color=a855f7&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-  </a>
-</p>
--->
+- 🔭 Currently working on multiple projects including Ethereum Gas Estimator tool and social media management enhancements.
+- 🌱 Learning new technologies and exploring the latest trends in software development.
+- ⚡ Fun fact: I love solving complex problems and am very strict with deadlines.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## 🛠️ My Portfolio
+## 🛠️ Skills & Technologies
+
+![Skills](https://skillicons.dev/icons?i=dotnet,cs,python,js,html,css,mysql,azure)
+
+- **Languages:** .NET C#, Python, JavaScript
+- **Frameworks:** .NET Core, Blazor
+- **Tools:** Webflow, Syncfusion
+- **Databases:** SQL Server, MySQL
+- **Cloud:** Azure
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## 🚀 Projects
 
 ### Frontend Portfolio (React & Angular)
 
@@ -72,6 +72,25 @@
 - [Amazon Email Verifier](https://github.com/FierceCoder212/Web_Scrappers-Selenium/tree/main/Amazon%20Email%20Verifier)
 - [Random US Phone Generator](https://github.com/FierceCoder212/Web_Scrappers-Selenium/tree/main/Random%20US%20Phone%20Generator)
 - [Whatsapp Spam Messages Sender](https://github.com/FierceCoder212/Web_Scrappers-Selenium/tree/main/Whatsapp%20Spam%20Messages)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="http://www.github.com/FierceCoder212">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FierceCoder212&stroke=a855f7&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=a855f7&currStreakLabel=6366f1&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" alt="FierceCoder212's GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="http://www.github.com/FierceCoder212">
+    <img src="https://github-readme-stats.vercel.app/api?username=FierceCoder212&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=a855f7&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="FierceCoder212's GitHub stats" />
+  </a>
+  <a href="https://github.com/FierceCoder212">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FierceCoder212&langs_count=10&title_color=6366f1&text_color=a855f7&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  </a>
+</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
