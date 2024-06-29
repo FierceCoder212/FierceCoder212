@@ -76,20 +76,22 @@ I am a passionate software developer with 7 years of experience in .NET C#, Pyth
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 📊 GitHub Stats
-
+<div>
+  <p align="left">
+    <a href="http://www.github.com/FierceCoder212">
+      <img src="https://github-readme-stats.vercel.app/api?username=FierceCoder212&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=a855f7&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="FierceCoder212's GitHub stats" />
+    </a>
+  </p>
+  
+  <!-- GitHub Streak Stats -->
+  <p align="right">
+    <a href="http://www.github.com/FierceCoder212">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=FierceCoder212&stroke=a855f7&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=a855f7&currStreakLabel=6366f1&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" alt="FierceCoder212's GitHub Streak" />
+    </a>
+  </p>
+</div>
 <!-- GitHub Stats -->
-<p align="left">
-  <a href="http://www.github.com/FierceCoder212">
-    <img src="https://github-readme-stats.vercel.app/api?username=FierceCoder212&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=a855f7&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="FierceCoder212's GitHub stats" />
-  </a>
-</p>
 
-<!-- GitHub Streak Stats -->
-<p align="right">
-  <a href="http://www.github.com/FierceCoder212">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FierceCoder212&stroke=a855f7&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=a855f7&currStreakLabel=6366f1&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" alt="FierceCoder212's GitHub Streak" />
-  </a>
-</p>
 
 <!-- Top Languages -->
 <p align="center">
