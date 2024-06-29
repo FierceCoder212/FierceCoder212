@@ -1,3 +1,61 @@
+# Hi there, I'm Abdullah 👋
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## About Me
+
+I am a passionate software developer with 7 years of experience in .NET C#, Python web scraping, and various other technologies. I am always eager to learn and take on new challenges.
+
+- 🔭 Currently working on multiple projects including Ethereum Gas Estimator tool and social media management enhancements.
+- 🌱 Learning new technologies and exploring the latest trends in software development.
+- ⚡ Fun fact: I love solving complex problems and am very strict with deadlines.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## 🛠️ Skills & Technologies
+
+![Skills](https://skillicons.dev/icons?i=dotnet,cs,python,js,html,css,mysql,azure)
+
+- **Languages:** .NET C#, Python, JavaScript
+- **Frameworks:** .NET Core, Blazor
+- **Tools:** Webflow, Syncfusion
+- **Databases:** SQL Server, MySQL
+- **Cloud:** Azure
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## 🚀 Projects
+
+### 📊 Ethereum Gas Estimator
+A tool to estimate Ethereum gas fees, ensuring cost-effective transactions.
+
+### 📈 Advanced Social Media Management
+Enhanced capabilities for social media management, including content scheduling, analytics, and more.
+
+### 🌐 Web Scraping Solutions
+Customized web scraping programs to extract and manage data efficiently.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## 📊 GitHub Stats
+
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## 📫 Contact
+
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- **GitHub:** [your-github-username](https://github.com/your-github-username)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## 🎨 ASCII Art
+
+
 # <p align="center">☮ Hey, welcome to my codespace!</p>
 
 ### <p align="center">I am senior software engineer, a Comp Sci graduate from GCU. I like to code, and travel.</p>
