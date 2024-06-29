@@ -76,7 +76,11 @@ I am a passionate software developer with 7 years of experience in .NET C#, Pyth
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 📊 GitHub Stats
-<div>
+<div style="
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+">
   <p align="left">
     <a href="http://www.github.com/FierceCoder212">
       <img src="https://github-readme-stats.vercel.app/api?username=FierceCoder212&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=a855f7&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="FierceCoder212's GitHub stats" />
@@ -90,13 +94,11 @@ I am a passionate software developer with 7 years of experience in .NET C#, Pyth
     </a>
   </p>
 </div>
-<!-- GitHub Stats -->
 
-
-<!-- Top Languages -->
+<!-- Profile Summary Card -->
 <p align="center">
-  <a href="https://github.com/FierceCoder212">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FierceCoder212&langs_count=10&title_color=6366f1&text_color=a855f7&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  <a href="http://github.com/FierceCoder212">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FierceCoder212&theme=dracula" alt="Profile Summary Card" />
   </a>
 </p>
 
@@ -107,13 +109,12 @@ I am a passionate software developer with 7 years of experience in .NET C#, Pyth
   </a>
 </p>
 
-<!-- Profile Summary Card -->
+<!-- Top Languages -->
 <p align="center">
-  <a href="http://github.com/FierceCoder212">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FierceCoder212&theme=dracula" alt="Profile Summary Card" />
+  <a href="https://github.com/FierceCoder212">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FierceCoder212&langs_count=10&title_color=6366f1&text_color=a855f7&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
   </a>
 </p>
-
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
