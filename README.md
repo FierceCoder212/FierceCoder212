@@ -55,6 +55,14 @@ Customized web scraping programs to extract and manage data efficiently.
 
 ## 🎨 ASCII Art
 
+ _   _  _____  _____
+| | | ||  _  ||  _  |
+| |_| || |_| || |_| |
+|  _  ||  ___||  ___|
+| | | || |    | |    
+|_| |_||_|    |_|    
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 # <p align="center">☮ Hey, welcome to my codespace!</p>
 
