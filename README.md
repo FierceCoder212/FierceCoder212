@@ -1,28 +1,32 @@
-<div align="center">
-  <h1>☮ Hey, welcome to my codespace!</h1>
-  <h3>I am a senior software engineer, a Comp Sci graduate from GCU. I like to code and travel.</h3>
+# <p align="center">☮ Hey, welcome to my codespace!</p>
+
+### <p align="center">I am a senior software engineer, a Comp Sci graduate from GCU. I like to code and travel.</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=FierceCoder212" alt="profile views">
-</div>
+</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<div style="background-color: #0f172a; color: #a855f7; padding: 20px; border-radius: 10px;">
-  <h2>🧑‍💻 About Me</h2>
-  <p>I am a passionate software developer with 7 years of experience in .NET C#, Python web scraping, and various other technologies.</p>
-  <ul>
-    <li>🔭 Currently working on multiple projects including Ethereum Gas Estimator tool and social media management enhancements.</li>
-    <li>🌱 Learning new technologies and exploring the latest trends in software development.</li>
-    <li>⚡ Fun fact: I love solving complex problems and am very strict with deadlines.</li>
-  </ul>
-</div>
+## 🧑‍💻 About Me
+
+I am a passionate software developer with 7 years of experience in .NET C#, Python web scraping, and various other technologies. I am always eager to learn and take on new challenges.
+
+- 🔭 Currently working on multiple projects including Ethereum Gas Estimator tool and social media management enhancements.
+- 🌱 Learning new technologies and exploring the latest trends in software development.
+- ⚡ Fun fact: I love solving complex problems and am very strict with deadlines.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 🛠️ Skills & Technologies
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,python,js,html,css,mysql,azure" alt="skills">
-</div>
+![Skills](https://skillicons.dev/icons?i=dotnet,cs,python,js,html,css,mysql,azure)
+
+- **Languages:** .NET C#, Python, JavaScript
+- **Frameworks:** .NET Core, Blazor
+- **Tools:** Webflow, Syncfusion
+- **Databases:** SQL Server, MySQL
+- **Cloud:** Azure
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -73,21 +77,46 @@
 
 ## 📊 GitHub Stats
 
+<!-- GitHub Stats -->
 <p align="center">
+    <a href="http://www.github.com/FierceCoder212">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=FierceCoder212&stroke=a855f7&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=a855f7&currStreakLabel=6366f1&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" alt="FierceCoder212's GitHub Streak" />
+  </a>
   <a href="http://www.github.com/FierceCoder212">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FierceCoder212&stroke=a855f7&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=a855f7&currStreakLabel=6366f1&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" alt="FierceCoder212's GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=FierceCoder212&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=a855f7&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="FierceCoder212's GitHub stats" />
   </a>
 </p>
 
+
+<!-- Profile Summary Card -->
 <p align="center">
-  <a href="http://www.github.com/FierceCoder212">
-    <img src="https://github-readme-stats.vercel.app/api?username=FierceCoder212&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=a855f7&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="FierceCoder212's GitHub stats" />
+  <a href="http://github.com/FierceCoder212">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FierceCoder212&theme=dracula" alt="Profile Summary Card" />
+  </a>
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=FierceCoder212&theme=dracula&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
   <a href="https://github.com/FierceCoder212">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FierceCoder212&langs_count=10&title_color=6366f1&text_color=a855f7&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
   </a>
 </p>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## Connect with Me
+
+Reach me out at [abdullahfarooq20172018@gmail.com](mailto:abdullahfarooq20172018@gmail.com?subject=Got%20an%20opportunity%20for%20you)
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username
+ سلام
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<p align="center">
+  <i>Happy Coding!</i> 😊
+</p>
