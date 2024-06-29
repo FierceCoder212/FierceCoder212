@@ -76,11 +76,7 @@ I am a passionate software developer with 7 years of experience in .NET C#, Pyth
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 📊 GitHub Stats
-<div style="
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-">
+<div style="display: flex;flex-direction: row;justify-content: space-between;">
   <p align="left">
     <a href="http://www.github.com/FierceCoder212">
       <img src="https://github-readme-stats.vercel.app/api?username=FierceCoder212&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=a855f7&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="FierceCoder212's GitHub stats" />
